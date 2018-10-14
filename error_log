@@ -1,0 +1,28 @@
+[12-May-2018 09:10:02 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[12-May-2018 09:10:35 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[12-May-2018 13:50:13 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[12-May-2018 13:50:23 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[16-May-2018 15:28:43 UTC] PHP Fatal error:  Call to undefined method Ajax_datatable_model::numCatColores() in /home/misticad/public_html/py_ckiinter/application/controllers/mainpanel/Colores.php on line 53
+[16-May-2018 15:29:00 UTC] PHP Fatal error:  Call to undefined method Ajax_datatable_model::numCatColores() in /home/misticad/public_html/py_ckiinter/application/controllers/mainpanel/Colores.php on line 53
+[21-May-2018 16:14:30 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[31-May-2018 21:43:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5 bytes) in /home/misticad/public_html/py_ckiinter/system/database/DB_driver.php on line 654
+[01-Jun-2018 07:32:50 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[01-Jun-2018 07:36:25 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[01-Jun-2018 15:32:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17 bytes) in /home/misticad/public_html/py_ckiinter/system/database/DB_driver.php on line 654
+[05-Jun-2018 07:17:13 UTC] PHP Fatal error:  Call to undefined function getBanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[12-Jun-2018 15:10:28 UTC] PHP Fatal error:  Call to undefined function getbanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[13-Jun-2018 22:10:39 UTC] PHP Fatal error:  Call to undefined function getbanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[13-Jun-2018 22:12:23 UTC] PHP Fatal error:  Call to undefined function getbanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[15-Jun-2018 18:22:22 UTC] PHP Fatal error:  Call to undefined function getbanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Politicas.php on line 25
+[16-Jun-2018 02:24:00 UTC] PHP Fatal error:  Call to undefined function getbanners() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Condiciones.php on line 25
+[18-Jun-2018 20:26:07 UTC] PHP Fatal error:  Call to undefined method Ajax_model::numCategorias() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Inicio.php on line 164
+[18-Jun-2018 20:26:47 UTC] PHP Fatal error:  Call to undefined method Ajax_model::numCategorias() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Inicio.php on line 164
+[18-Jun-2018 20:27:25 UTC] PHP Fatal error:  Call to undefined method Ajax_model::numCategorias() in /home/misticad/public_html/py_ckiinter/application/controllers/frontend/Inicio.php on line 164
+[20-Jun-2018 17:11:30 UTC] PHP Fatal error:  Call to undefined method Ajax_datatable_model::numBannerscliente() in /home/misticad/public_html/py_ckiinter/application/controllers/mainpanel/Banners.php on line 230
+[20-Jun-2018 17:11:50 UTC] PHP Fatal error:  Call to undefined method Ajax_datatable_model::numBannerscliente() in /home/misticad/public_html/py_ckiinter/application/controllers/mainpanel/Banners.php on line 230
+[20-Jun-2018 21:56:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 173
+[20-Jun-2018 21:56:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 173
+[20-Jun-2018 21:59:32 UTC] PHP Parse error:  syntax error, unexpected '$aux8' (T_VARIABLE) in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 178
+[20-Jun-2018 21:59:38 UTC] PHP Parse error:  syntax error, unexpected '$aux8' (T_VARIABLE) in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 178
+[20-Jun-2018 21:59:58 UTC] PHP Parse error:  syntax error, unexpected '$aux8' (T_VARIABLE) in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 178
+[20-Jun-2018 22:01:39 UTC] PHP Parse error:  syntax error, unexpected '$aux8' (T_VARIABLE) in /home/misticad/public_html/py_ckiinter/application/controllers/Inicio.php on line 178

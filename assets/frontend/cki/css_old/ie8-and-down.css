@@ -1,0 +1,15 @@
+ul#header-menu li a{
+  padding: 0px 35px;
+  font-size:12px;
+}
+.acceso_main{
+  float:right;
+  width:20px;
+  height: 20px;
+  padding-top:10px;
+}
+.acceso_main a img{
+  margin: 0;
+  padding: 0;
+  line-height: 0px;
+}

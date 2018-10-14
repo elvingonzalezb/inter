@@ -1,0 +1,371 @@
+.marginTop30 {
+    margin-top: 50px;
+}
+.main-menu-span { margin-left: -20px !important; }
+li.active a {
+    background: #13ADDB !important; color: #fff !important;
+}
+
+.div_color{
+
+    width:100px;
+
+    min-height:100px;
+
+    float:left;
+
+    margin:5px;
+
+}
+
+.div_color2{
+
+    width:120px;
+
+    min-height:120px;
+
+    float:left;
+
+    margin:5px;
+
+}
+
+.div_color2 h6{
+
+    line-height: 12px;
+
+}
+
+
+
+.caja_color2{
+
+    width:120px;
+
+    height:50px;
+
+    border: #BDBDBD solid 1px;
+
+}
+
+.caja_color{
+
+    width:100px;
+
+    height:50px;
+
+    border: #BDBDBD solid 1px;
+
+}
+
+#cont_colores{
+
+    min-height: 20px;
+
+    padding: 19px;
+
+    margin-bottom: 20px;
+
+    background-color: #f5f5f5;
+
+    border: 1px solid #eee;
+
+    border: 1px solid rgba(0, 0, 0, 0.05);
+
+    -webkit-border-radius: 4px;
+
+    -moz-border-radius: 4px;
+
+    border-radius: 4px;
+
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);    
+
+}
+
+#elejidos_colores{
+
+    min-height: 20px;
+
+    padding: 19px;
+
+    margin-bottom: 20px;
+
+    background-color: #f5f5f5;
+
+    border: 1px solid #eee;
+
+    border: 1px solid rgba(0, 0, 0, 0.05);
+
+    -webkit-border-radius: 4px;
+
+    -moz-border-radius: 4px;
+
+    border-radius: 4px;
+
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);    
+
+}
+
+.tit_col {
+
+    width: 100%;
+
+    height: 25px; color: #000; line-height: 15px; font-size: 12px; text-align: center;
+
+}
+
+.env_col_mant{
+
+    float:left;
+
+    width: 120px;
+
+    min-height: 10px;
+
+}
+
+.cu_col_mant{
+
+    width: 30px;
+
+    height: 30px;
+
+    margin: 0 5px;
+
+    float:left;
+
+    border: #BAB8B7 solid 1px; 
+
+}
+
+.capa_orden{
+
+    float: left;
+
+    width: 150px;
+
+    height: 100px;
+
+    border: #BDBDBD solid 1px;
+
+}
+
+#msgCli{
+
+    width: 70%;
+
+}
+
+#tablaPreviewBoletin { width: 700px; }
+
+.miniatura img { max-width: 400px; height: auto; }
+.miniatura2 img { max-width: 200px; height: auto; }
+
+
+
+.clearfix:after {
+
+	content: "."; 
+
+	display: block; 
+
+	height: 0; 
+
+	clear: both; 
+
+	visibility: hidden;
+
+}
+
+.clearfix {display: inline-table;}
+
+/* Hides from IE-mac \*/
+
+* html .clearfix {height: 1%;}
+
+.clearfix {display: block;}
+
+.aBtn { margin: 9px 0 0 0; }
+
+.aBtn a {
+
+    -webkit-border-radius: 4px;
+
+    -moz-border-radius: 4px;
+
+    border-radius: 4px; 
+
+    background: #f00; color: #fff; 
+
+    font-weight: 700; 
+
+    text-decoration: none; 
+
+    padding: 6px 20px;
+
+}
+
+span.pagoPendiente { 
+
+    background: #ffb515;
+
+    -webkit-border-radius: 5px;
+
+    -moz-border-radius: 5px;
+
+    border-radius: 5px;
+
+    padding:5px 20px; 
+
+    color: #000; 
+
+    font-weight: 700;
+
+}
+
+span.pagoPagado { 
+
+    background: #009fb8;
+
+    -webkit-border-radius: 5px;
+
+    -moz-border-radius: 5px;
+
+    border-radius: 5px;
+
+    padding:5px 20px; 
+
+    color: #000; 
+
+    font-weight: 700;
+
+}
+
+span.pagoVencido { 
+
+    background: #f00;
+
+    -webkit-border-radius: 5px;
+
+    -moz-border-radius: 5px;
+
+    border-radius: 5px;
+
+    padding:5px 20px; 
+
+    color: #fff; 
+
+    font-weight: 700;
+
+}
+
+.btnradio { text-align: center; }
+
+#opcionesColores { background: #f7f7f7f; padding: 10px; margin: 5px 0; width: 60%; display: none; }
+
+.lineaProx { width: 96%; height: 30px; margin: 2px auto; }
+
+.lineaProx span { width: 30%; float: left; }
+
+#cont_colores { display: none; }
+
+.btnAdd { background: #f00; color:#fff; border:none; cursor: pointer; padding: 5px 20px; }
+
+
+
+.div_color3{
+
+    width:140px;
+
+    min-height:120px;
+
+    float:left;
+
+    margin:5px 10px;
+
+}
+
+.div_color3 h6{
+
+    line-height: 12px;
+
+}
+
+.caja_color2 {
+
+    width:140px;
+
+    height:50px;
+
+    border: #BDBDBD solid 1px; font-size: 12px; color:#000;
+
+}
+
+.datoProx { font-size: 11px; height: 20px; }
+
+.filaOculta {
+    display: none;
+}
+.filaMostrada {
+    display: block;
+}
+i.icono_negro {
+    background-image: url("../img/glyphicons-halflings.png") !important;
+}
+.navbar{
+    z-index: 999;
+}
+.dataTables_wrapper{
+    position: relative;
+    clear: both;
+    zoom: 1;
+} 
+.dataTables_processing {
+    position: absolute;
+    top: 1%;
+    left: 50%;
+    height: auto;
+    margin-left: -35px;
+    margin-top: 64px;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+    width: 65px;
+    background: rgba(0, 0, 0, 0.53);
+    color: #fff;
+}
+.dataTables_processing:after {
+    content: " ";
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 5px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.colorList{
+    width: 25px;
+    height: 25px;
+    border: 1px solid #000;
+    display: inline-block;
+    border-radius: 10px;
+}
